@@ -63,7 +63,7 @@ body {
     height: 4.5rem;
     grid-row: 1 / span 2;
     transform: translateY(-1rem); }
-  .feature__text {
+  .feature-text {
     font-size: 1.7rem; }
 
 .story__pictures {
