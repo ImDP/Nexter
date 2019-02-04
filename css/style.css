@@ -97,9 +97,9 @@ body {
     content: "";
     display: block; }
   .nav-btn::before {
-    transform: translateY(-1.3rem); }
+    transform: translateY(-1.1rem); }
   .nav-btn::after {
-    transform: translateY(1.1rem); }
+    transform: translateY(0.9rem); }
   .nav-btn::focus {
     outline: none; }
 

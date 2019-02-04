@@ -26,8 +26,8 @@
         display: block;                
     }
 
-    &::before { transform: translateY(-1.3rem); }
-    &::after { transform: translateY(1.1rem); }
+    &::before { transform: translateY(-1.1rem); }
+    &::after { transform: translateY(.9rem); }
 
     &::focus {
         outline: none;
